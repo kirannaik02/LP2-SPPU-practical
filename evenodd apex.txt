@@ -1,0 +1,14 @@
+public class evenodd1 
+{
+    public static void display()
+    {
+        Integer x = 10; 
+        if(math.mod(x, 2) == 0)
+        {
+            system.debug('this is even number: ' + x);
+         }
+        else
+{
+    system.debug('this is odd number: ' + x);
+}
+    }

@@ -1,0 +1,16 @@
+public class Positive_Negative{
+    public static void main()
+    {
+        integer num=-5;
+        if(num>0){
+            System.debug('num is positive');
+        }
+        else if(num<0)
+        {
+            System.debug('number is negative');
+        }
+        else{
+            System.debug('number is zero');
+        }
+    }
+    

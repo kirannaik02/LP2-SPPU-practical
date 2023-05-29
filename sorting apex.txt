@@ -1,0 +1,8 @@
+public class sorting {
+    public static void main(){
+        List<Object>myList=new List<Object>{4,6,2,9,1};
+            myList.sort();
+        System.debug(myList);
+    }
+
+}
